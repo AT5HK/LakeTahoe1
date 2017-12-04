@@ -1,1 +1,1 @@
-Lake Tahoe readme
+Uses basic CSS and % to resize according to screen and device size
